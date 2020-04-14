@@ -1,11 +1,11 @@
 # Site settings
-author: Rocio X Escobar
-title: 
+author: Rocio Escobar
+title: Journey to Software Engineering
 header-img: img/home-bg.png
 email: rocio.x.escobar@gmail.com
-copyright_name: Rocio X Escobar
+copyright_name: Rocio Escobar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One step at a time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rescobar89
