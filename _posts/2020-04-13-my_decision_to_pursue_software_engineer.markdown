@@ -18,4 +18,4 @@ I have been using code language ever since I was in middle school. When MySpace 
 
 **Anyways**, coding is also fundamental in the work I do now, from sending emails to our members as well as using JavaScript in SharePoint. While googling and youtubing helps me with work related projects, I want to be able to learn and understand the language I implement. I want to change the way I think about coding. I want to change my whole career and pursue a career that will give me my drive back, which I believe coding and this program will do just that.
 
-Anyways, that's my reason. Thank you for taking the time to read this. Truly appreciate it :).
+Anyways, that's my reason. Thank you for taking the time to read this. Truly appreciate it :)
